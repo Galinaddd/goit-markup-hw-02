@@ -57,6 +57,10 @@ body {
   color: var(--common-txtcolor);
 }
 
+.current {
+  color: var(--accent-color);
+}
+
 /* Стилизация визуальных еффектов  елементов */
 .list {
   list-style-type: none;
